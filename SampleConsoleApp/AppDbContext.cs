@@ -44,7 +44,12 @@ namespace SampleConsoleApp
         }
     }
 
-
+    public class Authorization
+    {
+        public string Token { get; set; } = "ABCD12345xyz";
+        public string UserName { get; set; } = "AbcdUser";
+        public string Password { get; set; } = "P@ssword1";
+    }
     public class Employee
     {
         [System.ComponentModel.DataAnnotations.Key]
