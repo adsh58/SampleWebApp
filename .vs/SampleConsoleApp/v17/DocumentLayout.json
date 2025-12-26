@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Prep\\Project\\SampleConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14FEF662-0E08-4A5C-B199-8631EF042A46}|SampleConsoleApp\\SampleConsoleApp.csproj|d:\\my prep\\project\\sampleconsoleapp\\sampleconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FEF662-0E08-4A5C-B199-8631EF042A46}|SampleConsoleApp\\SampleConsoleApp.csproj|solutionrelative:sampleconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FEF662-0E08-4A5C-B199-8631EF042A46}|SampleConsoleApp\\SampleConsoleApp.csproj|d:\\my prep\\project\\sampleconsoleapp\\sampleconsoleapp\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FEF662-0E08-4A5C-B199-8631EF042A46}|SampleConsoleApp\\SampleConsoleApp.csproj|solutionrelative:sampleconsoleapp\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\My Prep\\Project\\SampleConsoleApp\\SampleConsoleApp\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SampleConsoleApp\\AppDbContext.cs",
+              "ToolTip": "D:\\My Prep\\Project\\SampleConsoleApp\\SampleConsoleApp\\AppDbContext.cs",
+              "RelativeToolTip": "SampleConsoleApp\\AppDbContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T04:26:31.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Prep\\Project\\SampleConsoleApp\\SampleConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "SampleConsoleApp\\Program.cs",
+              "ToolTip": "D:\\My Prep\\Project\\SampleConsoleApp\\SampleConsoleApp\\Program.cs",
+              "RelativeToolTip": "SampleConsoleApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T04:16:42.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
